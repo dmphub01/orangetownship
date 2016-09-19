@@ -1,6 +1,6 @@
 
 a, a:hover {text-decoration:none;}
-body, html {font-family: "Open Sans";}
+
 
 /*   Top Bar  */
 .fire-topbar {background-color:#104382; overflow:hidden; padding:3px;    z-index: 999999;}
