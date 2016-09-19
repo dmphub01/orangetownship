@@ -897,7 +897,7 @@ margin:0px;
 blockquote {
 	font-size:16px;
 	font-weight:400;
-	font-family:'Noto Serif', serif;
+	font-family:'Open Sans', Arial, sans-serif;
 	font-style:italic;
 	padding-left:0;
 	color:#a2a2a2;
@@ -916,7 +916,7 @@ blockquote cite a:visited 				{ color:#555; }
 .pullquote-left {
 	display:block;
 	color:#a2a2a2;
-	font-family:'Noto Serif', serif;
+	font-family:'Open Sans', Arial, sans-serif;
 	font-size:14px;
 	line-height:1.6em;
 	padding-left:20px;
@@ -925,7 +925,7 @@ blockquote cite a:visited 				{ color:#555; }
 .pullquote-right {
 	display:block;
 	color:#a2a2a2;
-	font-family:'Noto Serif', serif;
+	font-family:'Open Sans', Arial, sans-serif;
 	font-size:14px;
 	line-height:1.6em;
 	padding-right:20px;
